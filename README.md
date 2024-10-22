@@ -44,6 +44,19 @@ rate_limit_pause Will Be If It Rate Limit How Long Should it Pause For.
 
 # AND START TROLOLOL
 
+# Disclaimer!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+## READ
+
+This repository is intended for educational and research purposes only. Please be aware that the use of self-bots violates Discord's TOS, and using this code in practice may result in your Discord account being permanently suspended or banned.
+
+By using any code from this repository, you acknowledge that you do so at your own risk. The author of this project is not responsible for any actions taken by Discord or other parties as a result of the use of this software.
+
+Do not use this tool on live Discord accounts unless you fully understand the consequences of violating Discord's policies.
+
+Read https://discord.com/terms & https://support-dev.discord.com/hc/en-us/articles/8562894815383-Discord-Developer-Terms-of-Service 
+For More Info!
+
+
 
 
 

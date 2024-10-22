@@ -16,7 +16,7 @@ First You Need To Install [Python!](https://www.python.org/downloads/) and follo
 ## Download The TPING Files
 Press the green box named code on the top right of your screen and then press download zip. Then extract the zip folder Anywhere!
 
-## Install Dependencies with setup.py
+## Install Dependencies with setup.bat
 This is needed so the script will acutally work! 
   Note: make sure python with pip is installed or no workie
   
